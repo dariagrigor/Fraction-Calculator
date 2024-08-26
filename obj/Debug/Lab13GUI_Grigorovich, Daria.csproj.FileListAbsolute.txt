@@ -1,0 +1,10 @@
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\bin\Debug\Lab13GUI_Grigorovich, Daria.exe.config
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\bin\Debug\Lab13GUI_Grigorovich, Daria.exe
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\bin\Debug\Lab13GUI_Grigorovich, Daria.pdb
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich, Daria.csproj.AssemblyReference.cache
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich__Daria.Form1.resources
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich__Daria.Properties.Resources.resources
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich, Daria.csproj.GenerateResource.cache
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich, Daria.csproj.CoreCompileInputs.cache
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich, Daria.exe
+D:\Semester 2\COMP 123\Lab13GUI_Grigorovich, Daria\obj\Debug\Lab13GUI_Grigorovich, Daria.pdb
